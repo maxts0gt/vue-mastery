@@ -5,13 +5,11 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 import PageHome from './components/PageHome'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
     PageHome
   }
 }
